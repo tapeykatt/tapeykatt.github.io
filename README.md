@@ -1,2 +1,1 @@
-# one of my 4 websites lmao
-yes
+# MOVED TO [CODEBERG](https://tapeykatt.codeberg.page/)
